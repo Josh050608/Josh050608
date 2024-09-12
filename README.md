@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Josh050608 studying CS at BUPT
-- 👀 I’m interested in security
-- 🌱 I’m a freshman
+- 👋 Hi, I’m @Josh050608 
+
 - Here is my email address sbzzx050608@gmail.com
 
 <!---
